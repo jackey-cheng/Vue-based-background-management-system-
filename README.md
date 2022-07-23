@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#Vue-based-background-management-system
+Vue-based-background-management-system
 =======
 
 ## Tips
