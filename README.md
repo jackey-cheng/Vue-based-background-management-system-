@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # xiao_cheng
-login name :admin 
-password :admin
+login name :admin ;
+password :admin ;
 =======
 # one
 
