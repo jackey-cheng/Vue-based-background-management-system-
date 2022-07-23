@@ -1,8 +1,13 @@
 <<<<<<< HEAD
 #Vue-based-background-management-system
-#login name :admin ;
-#password :admin ;
 =======
+
+## Tips
+```
+login name :admin ;
+password :admin ;
+```
+
 
 ## Project setup
 ```
@@ -21,4 +26,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 968fd00 (init)
