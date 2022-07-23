@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # xiao_cheng
-new to there 
+login name :admin 
+password :admin
 =======
 # one
 
