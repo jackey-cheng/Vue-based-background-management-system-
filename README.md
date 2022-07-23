@@ -1,23 +1,22 @@
 <<<<<<< HEAD
-# xiao_cheng
-login name :admin ;
-password :admin ;
+#Vue-based-background-management-system
+#login name :admin ;
+#password :admin ;
 =======
-# one
 
 ## Project setup
 ```
-yarn install
+npm run serve
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
 ```
 
 ### Customize configuration
